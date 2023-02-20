@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **amithbj023@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17mSgSKYSoJ26bHHENEfbDGokYbqY0YXx/view?usp=share_link)
+- 📄 Know about my experiences [Resume Folder Link](https://drive.google.com/drive/folders/1QEJaz1oJq90adM_rYCGSIvonMiLDrm0T?usp=share_link)
 
 - ⚡ Fun fact **I think I am funny**
 
