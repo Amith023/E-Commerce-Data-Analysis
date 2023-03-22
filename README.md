@@ -1,7 +1,7 @@
 # E-Commerce_Data_Analysis
 ![MaterHead](https://unite.un.org/sites/unite.un.org/files/styles/panopoly_image_original/public/pages/analytics-banner_1.png?itok=ZMQjool9)
-- 📄 Click here to view the [Sales_Dashboard_1](https://public.tableau.com/views/Sales_Dashboard_1_16768720161490/SalesDash1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-- 📄 Click here to view the [Sales_Dashboard_2](https://public.tableau.com/views/Sales_Dashboard_2_16768722327820/SalesDash2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- 📄 Click here to view the [Dashboard_1](https://public.tableau.com/views/Sales_Dashboard_1_16768720161490/SalesDash1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- 📄 Click here to view the [Dashboard_2](https://public.tableau.com/views/Sales_Dashboard_2_16768722327820/SalesDash2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://tas.businesshub.london/wp-content/uploads/2021/02/tableau-integration-logo.png" alt="flask" width="40" height="40"/></a>
